@@ -1,0 +1,53 @@
+{
+  "$schema": "https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json",
+  "serviceIdentification": {
+    "fedRampPackageId": "BuildOps, Inc. (BuildOps)",
+    "ueiNumber": "N9JQYHNTTDA5",
+    "providerName": "BuildOps, Inc.",
+    "serviceName": "BuildOps",
+    "serviceAcronym": "BuildOps",
+    "serviceDescription": "BuildOps is a cloud-based field service and operations management platform for commercial contractors, including HVAC, mechanical, electrical, plumbing, and fire and life safety work. It covers the full work lifecycle in one system: service requests and work orders, scheduling and dispatch, preventive maintenance agreements, asset tracking, quoting, projects, purchasing and inventory, invoicing, and reporting. Office staff use the web application and field technicians use the BuildOps mobile app. The platform is hosted on Amazon Web Services in the United States and delivered as Software as a Service.",
+    "certificationType": "20x",
+    "website": "https://buildops.com",
+    "logo": "https://cdn.prod.website-files.com/69ca5a8696b428c0fbc088cf/69ea531f364dbd06ba5554b1_buildops_logo.webp"
+  },
+  "serviceProperties": {
+    "serviceType": ["SaaS"],
+    "deploymentModel": "Public Cloud",
+    "businessCategory": ["Operations Management", "Construction", "Customer Service", "Accounting"],
+    "trustCenter": {
+      "repositoryType": ["Trust Center", "Assessment Reports"],
+      "url": "https://trust.buildops.com",
+      "repositoryDescription": "BuildOps Trust Center with security policies, subprocessors, the SOC 2 Type II report, bridge letter, and FedRAMP certification materials.",
+      "authenticationRequired": true,
+      "accessRequestInstructions": "Request access from the BuildOps Trust Center at https://trust.buildops.com. Reports are released after an access request is approved."
+    },
+    "nextOngoingCertificationReportDate": "2027-09-30"
+  },
+  "contactInformation": [
+    {
+      "contactType": "Security",
+      "contactName": "Bob Motamede, Director of IT and Information Security",
+      "contactEmail": "security@buildops.com"
+    },
+    {
+      "contactType": "Sales",
+      "contactName": "Royce VanHoove, Director, Strategic Sales",
+      "contactEmail": "federal@buildops.com"
+    }
+  ],
+  "certifiedServices": [
+    {
+      "serviceName": "BuildOps",
+      "serviceDescription": "Field service and operations management platform for commercial contractors: work orders, scheduling and dispatch, maintenance agreements, asset tracking, quoting, projects, purchasing and inventory, invoicing, and reporting, delivered through web and mobile apps."
+    }
+  ],
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "AGENCYAMAZONEW",
+        "useCase": "Amazon Web Services (AWS US East/West). Primary cloud infrastructure hosting the BuildOps platform."
+      }
+    ]
+  }
+}
