@@ -5,6 +5,7 @@ BuildOps is applying for **FedRAMP 20x Class A** certification. This repository 
 | | |
 |---|---|
 | Certification type | FedRAMP 20x, Class A (in process) |
+| UEI | N9JQYHNTTDA5 |
 | FedRAMP ID | BuildOps, Inc. - BuildOps (until FedRAMP assigns one) |
 | Service model | SaaS |
 | Deployment model | Public Cloud |
@@ -52,7 +53,7 @@ All services are security category **Low**.
 |---|---|
 | Accountable official | Bob Motamede, Director of IT and Information Security – bob.motamede@buildops.com |
 | Security and FedRAMP | fedramp@buildops.com |
-| Sales | sales@buildops.com |
+| Sales | federal@buildops.com |
 | Phone | 213-559-1988 |
 | Service status | https://buildops.statuspage.io |
 
